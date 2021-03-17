@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header-box {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.header-title {
+  padding-left: 20px;
+  padding-top: 20px;
+  font-size: 24px;
+  color: #848282;
+}
