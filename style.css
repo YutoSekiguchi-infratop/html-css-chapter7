@@ -17,3 +17,24 @@
   font-size: 24px;
   color: #848282;
 }
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+p, a {
+  color: #848282;
+}
+
+
+.article {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #848282;
+}
+
+.article2, .article3, .article4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #848282;
+}
